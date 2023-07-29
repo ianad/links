@@ -154,7 +154,7 @@ links:
 
     # DISCORD
   - Name: Discord
-    URL: 'https://discord.gg'
+    URL: 'https://discordapp.com/users'
     Username: cognician
     Icon-Class: fab fa-discord
     Color: '#5865F2'
