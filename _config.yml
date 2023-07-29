@@ -48,7 +48,7 @@ links:
     URL: https://bsky.app/profile
     Username: 'ianad.me'
     Color: '#0085ff'
-    Icon-Class: fa-light fa-cloud
+    Icon-Class: fa-solid fa-square
     
     # LINKEDIN
   - Name: LinkedIn
