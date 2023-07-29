@@ -29,20 +29,6 @@ links:
   #   Color: '#DD2A7B'
   #   Icon-Class: fab fa-instagram
 
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: ian_cogneato
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
-
-    # MASTODON 
-  - Name: Mastodon
-    URL: https://mas.to
-    Username: '@ianad'
-    Color: '#563ACC'
-    Icon-Class: fab fa-mastodon
-
     # BLUESKY
   - Name: Bluesky
     URL: https://bsky.app/profile
@@ -63,7 +49,21 @@ links:
     Username: ianad
     Color: '#6e5494'
     Icon-Class: fab fa-github
-    
+
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: ian_cogneato
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+
+    # MASTODON 
+  - Name: Mastodon
+    URL: https://mas.to
+    Username: '@ianad'
+    Color: '#563ACC'
+    Icon-Class: fab fa-mastodon    
+
     # KEYBASE
   - Name: Keybase
     URL: https://keybase.io
@@ -78,7 +78,7 @@ links:
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
 
-    # YOUTUBE
+  #   # YOUTUBE
   # - Name: YouTube
   #   URL: https://www.youtube.com/channel
   #   Username: UCS3zvA_2r1iGT7MB3NVCGAw
@@ -92,15 +92,15 @@ links:
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # TWITCH
+  #   # TWITCH
   # - Name: Twitch
   #   URL: 'https://twitch.tv'
-  #   Username: 
+  #   Username: cognician
   #   Icon-Class: fab fa-twitch
   #   Color: '#9147fe'
   #   Text_Color: '#ffffff'
 
-    # VIMEO
+  #   # VIMEO
   # - Name: Vimeo
   #   URL: 'https://vimeo.com'
   #   Username: 
@@ -108,17 +108,17 @@ links:
   #   Color: '#1ab7ea'
   #   Text_Color: '#ffffff'
 
-    # MESSENGER
+  #   # MESSENGER
   # - Name: Messenger
   #   URL: https://m.me
   #   Username: 
   #   Color: '#006AFF'
   #   Icon-Class: fab fa-facebook-messenger
 
-    # REDDIT
+  #   # REDDIT
   # - Name: Reddit
   #   URL: http://reddit.com/u
-  #   Username: 
+  #   Username: holden-mcroyne
   #   Color: '#FF4500'
   #   Icon-Class: fab fa-reddit-alien
 
@@ -129,14 +129,14 @@ links:
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
 
-    # TELEGRAM
+  #   # TELEGRAM
   # - Name: Telegram
   #   URL: http://telegram.me
   #   Username: 
   #   Color: '#0088cc'
   #   Icon-Class: fab fa-telegram-plane
 
-    # SNAPCHAT
+  #   # SNAPCHAT
   # - Name: Snapchat
   #   URL: https://www.snapchat.com/add
   #   Username: ''
@@ -144,7 +144,7 @@ links:
   #   Text_Color: '#000000'
   #   Icon-Class: fab fa-snapchat-ghost
 
-    # STEAM
+  #   # STEAM
   # - Name: Steam
   #   URL: https://steamcommunity.com/id
   #   Username: ''
@@ -152,22 +152,22 @@ links:
   #   Text_Color: '#000000'
   #   Icon-Class: fab fa-steam
 
-  #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
+    # DISCORD
+  - Name: Discord
+    URL: 'https://discord.gg'
+    Username: cognician
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
 
-    # PINTEREST
+  #   # PINTEREST
   # - Name: Pinterest
   #   URL: https://pinterest.com
   #   Username: 
   #   Color: '#E60023'
   #   Icon-Class: fab fa-pinterest
 
-    # BEHANCE
+  #   # BEHANCE
   # - Name: Behance
   #   URL: https://www.behance.net
   #   Username: 
@@ -181,15 +181,15 @@ links:
   #   Color: '#ea4c89'
   #   Icon-Class: fab fa-dribbble
 
-    # DEVIANTART
+  #   # DEVIANTART
   # - Name: DeviantArt
   #   URL: https://www.deviantart.com
   #   Username: 
-    # Icon-Class: fab fa-deviantart
-    # Color: '#05CC46'
-    # Text_Color: '#ffffff'
+  #   Icon-Class: fab fa-deviantart
+  #   Color: '#05CC46'
+  #   Text_Color: '#ffffff'
 
-    # FIGMA
+  #   # FIGMA
   # - Name: Figma
   #   URL: https://www.figma.com
   #   Username: 
@@ -197,14 +197,14 @@ links:
   #   Color: '#ff2865'
   #   Text_Color: '#ffffff'
 
-    # SPOTIFY
+  #   # SPOTIFY
   # - Name: Spotify
   #   URL: http://open.spotify.com/user
   #   Username: 314ihryk3edvtusti6il3oy3x5da
   #   Color: '#1DB954'
   #   Icon-Class: fab fa-spotify
 
-    # SOUNDCLOUD
+  #   # SOUNDCLOUD
   # - Name: SoundCloud
   #   URL: https://www.soundcloud.com
   #   Username: 
@@ -218,7 +218,7 @@ links:
   #   Color: '#FE2C55'
   #   Icon-Class: fab fa-tiktok
 
-    # MEDIUM
+  #   # MEDIUM
   # - Name: Medium
   #   URL: 'https://medium.com'
   #   Username: 
@@ -226,7 +226,7 @@ links:
   #   Color: '#00ab6c'
   #   Text_Color: '#ffffff'
 
-    # DEV.TO
+  #   # DEV.TO
   # - Name: Dev.to
   #   URL: 'https://dev.to'
   #   Username: harsh98trivedi
@@ -241,7 +241,7 @@ links:
   #   Color: '#35465c'
   #   Icon-Class: fab fa-tumblr
 
-  # BUY ME A COFFEE
+  #   # BUY ME A COFFEE
   # - Name: BuyMeACoffee
   #   URL: 
   #   Username: harshtrivedi
@@ -249,7 +249,7 @@ links:
   #   Color: '#FFDD00'
   #   Text_Color: '#000000'
 
-    # CUSTOM LINK
+  #   # CUSTOM LINK
   # - Name: Blog
   #   URL: 
   #   Icon-Class: fas fa-link
